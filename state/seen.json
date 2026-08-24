@@ -1,5 +1,9 @@
 {
-  "seen_hashes": [],
-  "seen_links": [],
-  "next_post_not_before": null
+  "seen_hashes": [
+    "a2c89e9d1f916567f5bba91fbf8ec07d4d34e406f97ab7ae3846eed8dbe8695f"
+  ],
+  "seen_links": [
+    "https://abcnews.com/US/wireStory/police-investigate-after-5-bodies-found-rural-area-135891949"
+  ],
+  "next_post_not_before": 1787615330.689942
 }
